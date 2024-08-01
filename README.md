@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 <!--
-**anafla22639/anafla22639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anafla22639/anafla22639** 
+Sou estudante do 1º C noturno
+faço curso do alura 
+
 
 Here are some ideas to get you started:
 
