@@ -2,6 +2,7 @@ Oie meu chamo Ana Flávia
 Sou estudante do 1ºC noturno
 adoro fazer amigos
 Faço curso da Alura
+Experiência em atendimento
 
 <!--
 **anafla22639/anafla22639** 
